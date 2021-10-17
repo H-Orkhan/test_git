@@ -1,7 +1,5 @@
 First Line
-Seconde Line
+Second Line
 Third Line
 Fourth line
 Fifth line
-Sixth line
-Seventh Line
